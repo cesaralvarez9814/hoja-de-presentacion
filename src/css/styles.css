@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(0, 47, 128, 0.447);
+    text-align: center;
+   
+}
+li img{
+    width: 40px;
+    text-align: right;
+}
+h1{
+    font-style: italic;
+    
+}
+h2::selection{
+   color: yellow;
+}
+
+li img:hover{
+    width: 100px;
+}
+li{
+    text-align: left;
+}
